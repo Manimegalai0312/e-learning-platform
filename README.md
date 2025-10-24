@@ -1,15 +1,3 @@
-COMPANY: CODTECH IT SOLUTIONS
-
-NAME: MANIMEGALAI S
-
-INTERN ID: CT04DH1317
-
-DOMAIN: FRONTEND WEB DEVEOPEMENT
-
-DURATION :4 WEEKS
-
-MENTOR: NEELA SANTHOSH KUMAR
-
 DESCRIPTION: Overview
 This React component creates a homepage for an e-learning platform. It includes a sidebar navigation, a welcome banner, a course browsing section, video previews, dashboard widgets, and login/register forms — all styled using Bootstrap.
 
